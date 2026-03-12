@@ -9,6 +9,12 @@ The dashboard explores key questions such as:
 - How long are patients staying in hospital?
 - Are abnormal test results linked to certain conditions or admission types?
 
+## Tableau Public Link
+View the interactive dashboard here:
+
+[Tableau Public Dashboard](https://public.tableau.com/app/profile/marian.stefanita.ilie/viz/HealthcarePerformanceandCostAnalysisAnInteractiveTableauDashboard/Dashboard0ExecutiveSummary)
+
+
 ## Objectives
 The project was designed to:
 
@@ -111,11 +117,6 @@ Explores:
 
 ### Clinical Quality Dashboard
 ![Clinical Quality Dashboard](dashboard_screenshots/clinical_quality_dashboard.png)
-
-## Tableau Public Link
-View the interactive dashboard here:
-
-[Tableau Public Dashboard](https://public.tableau.com/app/profile/marian.stefanita.ilie/viz/HealthcarePerformanceandCostAnalysisAnInteractiveTableauDashboard/Dashboard0ExecutiveSummary)
 
 ## What I Learned
 Through this project, I strengthened my skills in:
